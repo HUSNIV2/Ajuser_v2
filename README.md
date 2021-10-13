@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/K5bqKHr/20210928-161812.png""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="Husni.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Husni._.V2" src="https://img.shields.io/badge/-Husniser-red?&style=for-the-badge"></a>
 </p>
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/HUSNIV2">Husni</a> to make it pub
     
 <p align="center">
 
-<a href="https://instagram.com/__Husniz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_husni__jr_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
