@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Husni._.V2*
  
 
-        *Github link        _https://github.com/HUSNIV2/Husni._.V2
+        *Github link        _https://github.com/HUSNIV2_*
  
 
        *Audio commads-1     _https://github.com/HUSNIV2/Husni._.V2/tree/master/upload_*
@@ -30,6 +30,6 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
        *Audio commads-2     _https://github.com/HUSNIV2/Husni._.V2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/HUSNIV2/Husni._.V2/tree/master/sti
+      *Sticker commads      _https://github.com/HUSNIV2/Husni._.V2/tree/master/uploads_*
 
 })); 
