@@ -18,22 +18,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Husni._.V2*
  
 
-        *Github link        _https://github.com/aju001/Ajuser_v2_*
-        
-        
-       *Bot making video   _https://youtu.be/dm_kVZ0m2eY_*
+        *Github link        _https://github.com/HUSNIV2/Husni._.V2
  
 
-       *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/HUSNIV2/Husni._.V2/tree/master/upload_*
  
  
-       *Audio commads-2     _https://github.com/aju001/Ajuser_v2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/HUSNIV2/Husni._.V2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/aju001/Ajuser_v2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/HUSNIV2/Husni._.V2/tree/master/stickers_*
 `}) 
 
 })); 
