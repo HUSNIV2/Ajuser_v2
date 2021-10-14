@@ -14,7 +14,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/0Cg9MJN/20210923-185508.jpg";
+    r_text[0] = "Husni.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -48,7 +48,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴀᴊᴜ 
+│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* :Husni
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.BOT + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
@@ -138,7 +138,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ▢ .sᴇᴛᴠᴀʀ
 │ 
 │
-│   ❏ *Ajuser* ❏
+│   ❏ *HUSNI* ❏
 ╰──────────────────╯
 `}) 
 
