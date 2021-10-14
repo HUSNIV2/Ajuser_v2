@@ -30,7 +30,6 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
        *Audio commads-2     _https://github.com/HUSNIV2/Husni._.V2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/HUSNIV2/Husni._.V2/tree/master/stickers_*
-`}) 
+      *Sticker commads      _https://github.com/HUSNIV2/Husni._.V2/tree/master/sti
 
 })); 
